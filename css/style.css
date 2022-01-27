@@ -166,7 +166,7 @@ img {
 
 /* Hero */
 .section-hero {
-  background: url(/img/Hero.jpg) no-repeat right top white;
+  background: url(../img/Hero.jpg) no-repeat right top white;
   background-size: contain;
   border-bottom: 1px solid #e4e4e4;
 }
@@ -214,7 +214,7 @@ img {
   width: 13px;
   height: 17px;
   margin-right: 10px;
-  background: url(/img/ssl.svg) center center transparent no-repeat;
+  background: url(../img/ssl.svg) center center transparent no-repeat;
   background-size: contain;
   transform: translateY(-1px);
 }
@@ -389,13 +389,13 @@ img {
 }
 
 .section-contacts-icon-gps {
-  background-image: url(/img/gps.png);
+  background-image: url(../img/gps.png);
 }
 .section-contacts-icon-phone {
-  background-image: url(/img/phone.png);
+  background-image: url(../img/phone.png);
 }
 .section-contacts-icon-mail {
-  background-image: url(/img/mail.png);
+  background-image: url(../img/mail.png);
   background-size: auto 19px;
 }
 
